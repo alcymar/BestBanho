@@ -23,3 +23,41 @@ Apesar de se importar muito com seus cãezinhos, Eduardo quer gastar o mínimo
 possível. Desenvolva uma solução para encontrar o melhor petshop para levar os cães.
 O melhor petshop será o que oferecer menores preços, em caso de empate o melhor é
 o mais próximo do canil.
+
+Entrada:
+<data> <quantidade de cães pequenos> <quantidade cães grandes>Exemplo: 03/08/2018 3 5
+Saída:
+Nome do melhor canil e preço total dos banhos.
+
+# Descisões do projeto
+- A implementação do projeto foi realizada utilizando o framework Flutter e linguagem de programação Dart.
+
+# Importar o Projeto
+- Clone o repositorio ou faça o download para uma maquina Local.
+- Extraia o arquivo de pastas do projeto Best Banho.
+- Abra a ferramenta Visual Studio Code e escolha a opção File>Open Folder e escolha a pasta do projeto.
+
+# Execução do App Flutter
+- Após importar toda a estrutura de pastas do projeto entre no arquivo main.dart e clique no botão de play no canto superior direito e escolha a opção Run Without Debugging.
+- O App Best Banho irá ser executado no Navegador. (Caso tenha um dispositivo conectado a ferramenta o App poderá ser executado no proprio dispositivo.
+
+# Execução no modo Web
+- Para executar o App no modo Web digite no terminal do Visual Studiuo Code "flutter run -d chrome".
+
+# Tutorial de Utilização do App
+- Na tela inicial do App selecione uma data para um banho, irá aparecer uma janela com o calendário atual.
+- Após selecionar a data do banho selecione a quantidade de cães pequenos que tomará banho e posteriormente a quantidade de cães grandes.
+- Com os três campos preenchidos clique no botão azul no canto inferior direito da tela com uma lupa desenhada.
+- irá ser apresentada uma pequena janela contendo as informações do melhor local de banho e preço total dos banhos.
+
+- * O App não faz verificação de campos vazios, portanto foi presumido que o utilizador não irá executar as consulta com os campos vazios.
+  * Caso o utilizador não tenha nenhum cão pequeno ou grande para dar banho, os campos deverão ser preenchidos com o valor 0.
+ 
+# Os arquivos de prototipo e visão geral estão nos arquivos de projeto.
+# Para criação dos prototipos, foi utilizada a ferramenta Figma, e implementação foi utilizada a IDE Visual Studio Code.
+# Nos arquivo do projeto tambem foi submetido um arquivo Best Banho.Apk para instalação direta no smartphone ou tablet.
+
+
+
+
+
