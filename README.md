@@ -49,13 +49,12 @@ Nome do melhor canil e preço total dos banhos.
 - Após selecionar a data do banho selecione a quantidade de cães pequenos que tomará banho e posteriormente a quantidade de cães grandes.
 - Com os três campos preenchidos clique no botão azul no canto inferior direito da tela com uma lupa desenhada.
 - irá ser apresentada uma pequena janela contendo as informações do melhor local de banho e preço total dos banhos.
-
-- * O App não faz verificação de campos vazios, portanto foi presumido que o utilizador não irá executar as consulta com os campos vazios.
-  * Caso o utilizador não tenha nenhum cão pequeno ou grande para dar banho, os campos deverão ser preenchidos com o valor 0.
+- O App não faz verificação de campos vazios, portanto foi presumido que o utilizador não irá executar as consulta com os campos vazios.
+- Caso o utilizador não tenha nenhum cão pequeno ou grande para dar banho, os campos deverão ser preenchidos com o valor 0.
  
-# Os arquivos de prototipo e visão geral estão nos arquivos de projeto.
-# Para criação dos prototipos, foi utilizada a ferramenta Figma, e implementação foi utilizada a IDE Visual Studio Code.
-# Nos arquivo do projeto tambem foi submetido um arquivo Best Banho.Apk para instalação direta no smartphone ou tablet.
+- * Os arquivos de prototipo e visão geral estão nos arquivos de projeto.
+- * Para criação dos prototipos, foi utilizada a ferramenta Figma, e implementação foi utilizada a IDE Visual Studio Code.
+- * Nos arquivo do projeto tambem foi submetido um arquivo Best Banho.Apk para instalação direta no smartphone ou tablet.
 
 
 
